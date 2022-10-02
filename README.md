@@ -1,5 +1,5 @@
 
-#                                                    HacktoberFest 2022
+#                                                    HacktoberFest 2022 - Machine Learning Basics
 ![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
 
  
@@ -47,8 +47,8 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 **✨ Thanks goes to these wonderful people ✨**
 
 ## Maintainers
-[Anamaya](https://github.com/Anamaya1729)
-[Yuvraj](https://github.com/YuvrajSinghGitbub)
+- [Anamaya](https://github.com/Anamaya1729)
+- [Yuvraj](https://github.com/YuvrajSinghGitbub)
 
 ## License
 
