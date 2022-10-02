@@ -1,8 +1,5 @@
 # Hacktoberfest 2022
-## Machine Learning Algorithm from Scratch
-This repository contains machine learning algorithm from scratch. From scratch means following algorithms are implemented without using any machine learning library. Numpy and other mathematical libraries are allowed. This is a good way to understand how machine learning algorithms work and how linear algebra is used in machine learning.
-
-# Simple Machine Learning projects
+## Simple Machine Learning projects
 
 The purpose of these _four_ projects is to get your toes wet with some ML projects. The projects are such:
 1. Housing prices prediction with linear regression
