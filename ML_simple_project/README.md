@@ -12,5 +12,5 @@ The first problem uses the _'California housing prices'_ dataset. The rest of th
 ## Project guidelines
 1. Carefull study the datasets.
 2. The project files must be jupyter notebooks.
-3. Code should follow the style guide mentioned [here]../CODE_OF_CONDUCT.md
+3. Code should follow the style guide mentioned [here](../CODE_OF_CONDUCT.md)
 4. All projects must mention (and show) their efficiency, such as the MSE, RMSE, confusion matricies, etc.
