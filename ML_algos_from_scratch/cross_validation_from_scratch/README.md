@@ -6,7 +6,7 @@
 Cross validation is a technique used to evaluate machine learning models on a limited data sample. The goal is to estimate how the model will generalize to an independent data sample. That is, to use a limited data sample in order to estimate how the model will behave in real world.
 
 ### Input Format
-The input format is a csv file with the first row as the column names and the first column as the index. The last column is the target variable.
+The input format is a model and a input feature, target attribute and number of folds. The model is a function which takes input feature and target attribute as input and returns the model. The input feature and target attribute are numpy arrays. The number of folds is an integer.
 
 ### Output Format
 The output is a dictionary with the following keys:
