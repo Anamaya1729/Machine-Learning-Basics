@@ -18,6 +18,7 @@ The first problem uses the _'California housing prices'_ dataset. The rest of th
 
 ## Where to download the datasets
 [Housing prices dataset](https://github.com/ageron/handson-ml/blob/master/datasets/housing/housing.csv)
+
 [MNIST dataset](https://www.openml.org/search?type=data&sort=runs&id=554&status=active)
 
 ## How to contribute
