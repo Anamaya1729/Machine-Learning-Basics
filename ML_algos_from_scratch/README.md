@@ -1,10 +1,6 @@
-gradient_descent_from_scratch
-stocastic_gradient_descent_from_scratch
-cross_validation_from_scratch
-linear_regression_from_scratch
-polynomial_regression
-non_linear_SVM
-K_means_clustering
-simple_CNN_handwritten_digits_recognition
-random_forests
-dimensionality_reduction
+# ML- Algos from Scratch
+
+- gradient_descent_from_scratch
+- stocastic_gradient_descent_from_scratch
+- cross_validation_from_scratch
+- linear_regression_from_scratch
