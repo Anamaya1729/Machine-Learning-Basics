@@ -1,0 +1,5 @@
+housing_price_prediction_using_linear_regression
+amnist_logistic_regression
+amnist_svm_classification
+amnist_decision_tree
+
