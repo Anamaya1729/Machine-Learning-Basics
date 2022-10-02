@@ -11,6 +11,11 @@ This repository contains machine learning algorithm from scratch. From scratch m
 ## How to contribute
 - Read the [contribution guidelines](../CONTRIBUTING.md) before making a pull request.
 
+## Rules
+- All algorithms should be implemented in Python.
+- Read the [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) file.
+
+
 ## Style Guide
 - Follow [PEP8](https://www.python.org/dev/peps/pep-0008/) style guide.
 
