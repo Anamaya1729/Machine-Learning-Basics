@@ -1,0 +1,4 @@
+k_means_clustering
+cnn_handwrittern_digits_recognition
+random_forest
+dimensionality_reduction_pca
