@@ -15,6 +15,7 @@ This repository contains advance machine learning algorithm. These are the some 
 
 ## Rules
 - All algorithms should be implemented in Python.
+- You can also upload weights and model if you want in the respective algorithm folder.
 - Read the [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) file.
 
 
