@@ -11,7 +11,7 @@ For this project map the target vector to a binary vecrtor where each instance t
 - Size of number of features: 784
 
 ## Steps for model development
-1. Get the data. [Download link](https://www.openml.org/search?type=data&sort=runs&id=554&status=active))
+1. Get the data. [Download link](https://www.openml.org/search?type=data&sort=runs&id=554&status=active)
 
 Another way to get the data is by using *sklearn.datasets.fetch_openml()* function:
 
@@ -29,7 +29,7 @@ y_train = (y_train == 5)
 y_test = (y_test == 5)
 ```
 
-3. Choose a classifier. (Decision tree here)
+3. Choose a classifier. (binary logistic classifier here)
 
 4. Choose an accuracy measure. (Cross validation, confusion matrix, etc)
 
