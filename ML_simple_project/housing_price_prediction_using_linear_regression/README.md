@@ -8,7 +8,7 @@ Given the dataset of california housing prices make a _**linear regression**_ mo
 - Number of columns: 10
 
 ## Steps for model development
-The follow in steps for model development is taken form the book _**Hands on machine learning with scikit-learn, Keras, and Tensorflow""_.
+The follow in steps for model development is taken form the book _**Hands on machine learning with scikit-learn, Keras, and Tensorflow**_.
 
 1. Look at the big picture (What the problem is)
 2. Get the data (Download the data at correct location)
