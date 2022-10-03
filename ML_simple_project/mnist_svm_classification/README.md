@@ -8,7 +8,7 @@ SVM classification is using the SVM for the purpose of classification. In this p
 - Size of number of features: 784
 
 ## Steps for model development
-1. Get the data. [Download link](https://www.openml.org/search?type=data&sort=runs&id=554&status=active))
+1. Get the data. [Download link](https://www.openml.org/search?type=data&sort=runs&id=554&status=active)
 
 Another way to get the data is by using *sklearn.datasets.fetch_openml()* function:
 
@@ -21,7 +21,7 @@ The `mnist["data"]` gets the actual data, and the `mnist["target"]` gets the tar
 2. Study the dataset. 
 Study the data and the target, and create a train-test split.
 
-3. Choose a classifier. (Decision tree here)
+3. Choose a classifier. (SVM classifier here)
 
 4. Choose an accuracy measure. (Cross validation, confusion matrix, etc)
 
