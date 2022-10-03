@@ -1,7 +1,7 @@
 # Hacktoberfest 2022
 ## Machine Learning Advance Algorithms 
 
-This repository contains advance machine learning algorithm. These are the some advance machine learning algorithms which are used in real world. 
+This repository contains advance machine learning algorithm. These are the some advance machine learning algorithms which are used in real world.
 
 ## Algorithms Implemented
 
