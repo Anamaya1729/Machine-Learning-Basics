@@ -16,6 +16,7 @@
 * Add this line of code to next line after a name.
 ```
 - [YourName](https://github.com/YourGitHubUsername)
+- [Mihir Panchal](https://github.com/MihirRajeshPanchal)
 ```
  
 
