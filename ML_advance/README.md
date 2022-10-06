@@ -9,6 +9,7 @@ This repository contains advance machine learning algorithm. These are the some 
 - cnn_handwrittern_digits_recognition
 - random_forest
 - dimensionality_reduction_pca
+- rnn_power_usage_prediction
 
 ## How to contribute
 - Read the [contribution guidelines](../CONTRIBUTING.md) before making a pull request.
