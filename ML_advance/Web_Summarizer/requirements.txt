@@ -1,0 +1,4 @@
+Flask==2.0.2
+transformers==4.11.3
+tensorflow==2.7.0
+protobuf==3.18.1
